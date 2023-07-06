@@ -1,0 +1,9 @@
+hr {color: red}
+p {color: purple; font size: 12pt}
+body {background: grey}
+h1 {background-color: tan}
+
+a:link {color: green}
+a:visited {color:yellow}
+a:hover {color:black}
+a:active {color:blue}
